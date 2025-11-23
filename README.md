@@ -89,17 +89,15 @@ endmodule
 ```
 
  Developed by:Janani Sree M
-
  RegisterNumber:25015867 
  
 **Logic symbol & Truthtable**
+<img width="475" height="914" alt="Screenshot 2025-11-23 110422" src="https://github.com/user-attachments/assets/d1822309-be5a-49df-bef5-cf4c43976401" />
  
 **RTL realization Output:** 
- 
+<img width="700" height="424" alt="Screenshot 2025-11-23 110517" src="https://github.com/user-attachments/assets/187d4f05-b502-4fe3-a163-7e31d36446e2" />
+  
 **RTL**
-<img width="1322" height="835" alt="Screenshot 2025-11-23 105052" src="https://github.com/user-attachments/assets/f37f94f5-80d7-4726-8210-69d286fa207a" />
-
-
+<img width="1459" height="871" alt="Screenshot 2025-11-23 110448" src="https://github.com/user-attachments/assets/0fd55326-ff8f-4461-b660-8dd2dc802616" />
+ 
 **Result:**
-
-
