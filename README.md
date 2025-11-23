@@ -101,3 +101,4 @@ endmodule
 <img width="1459" height="871" alt="Screenshot 2025-11-23 110448" src="https://github.com/user-attachments/assets/0fd55326-ff8f-4461-b660-8dd2dc802616" />
  
 **Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
