@@ -63,28 +63,42 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 ```
-module LabExcercise1(a,b,c,d,e,f,g,h);
-input a,b;
-output c,d,e,f,g,h;
-assign c = a & b;
-assign d = a | b;
-assign e = a ^ b;
-assign f = ~(a & b);
-assign g = ~(a | b);
-assign h = ~(a ^ b);
+module EXP1(
+	input wire a, 
+	input wire b, 
+	output wire and_out,
+	output wire or_out,
+	output wire not_out,
+	output wire nand_out,
+	output wire nor_out,
+	output wire xor_out,
+	output wire xnor_out
+);
+
+	assign and_out  = a & b;
+	assign or_out   = a | b;
+	assign not_out  = ~a;
+	assign nand_out = ~(a & b);
+	assign nor_out  = ~(a | b);
+	assign xor_out  = ~a ^ b;
+	assign xnor_out = ~(a ^ b);
+
 endmodule
-
 ```
 
+ Developed by:Janani Sree M
 
- Developed by: RegisterNumber: 
+ RegisterNumber:25015867 
  
 **Logic symbol & Truthtable**
-![alt text](pic.png)
+ 
 **RTL realization Output:** 
- ![alt text](<Screenshot (56).png>)
+ 
 **RTL**
+<img width="1322" height="835" alt="Screenshot 2025-11-23 105052" src="https://github.com/user-attachments/assets/f37f94f5-80d7-4726-8210-69d286fa207a" />
+
 
 **Result:**
 
